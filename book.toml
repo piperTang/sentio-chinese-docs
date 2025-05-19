@@ -1,16 +1,14 @@
 [book]
-authors = ["lzzsG"]
-language = "en"
+authors = ["piper"]
+language = "zh"
 multilingual = false
 src = "src"
-title = "mdBook-pages-test"
+title = "sentio-chinese-docs"
 
 
 [output.html]
-site-url = "/mdBook-pages-test/"
-default-theme = "black"
-preferred-dark-theme = "black"
-git-repository-url = "https://github.com/lzzsG/mdBook-pages-test"
+site-url = "/sentio-chinese-docs/"
+git-repository-url = "https://pipertang.github.io/sentio-chinese-docs"
 git-repository-icon = "fa-github"
 
 
