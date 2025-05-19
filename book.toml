@@ -1,14 +1,14 @@
 [book]
 authors = ["piper"]
-language = "em"
+language = "en"
 multilingual = false
 src = "src"
-title = "sentio-chinese-docs"
+title = "sentio中文开发文档"
 
 
 [output.html]
 site-url = "/sentio-chinese-docs/"
-git-repository-url = "https://pipertang.github.io/sentio-chinese-docs"
+git-repository-url = "https://github.com/piperTang/sentio-chinese-docs"
 git-repository-icon = "fa-github"
 
 
