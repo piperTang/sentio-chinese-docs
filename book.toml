@@ -7,7 +7,7 @@ title = "sentio中文开发文档"
 
 
 [output.html]
-site-url = "/sentio-chinese-docs/"
+smart-punctuation = true
 git-repository-url = "https://github.com/piperTang/sentio-chinese-docs"
 git-repository-icon = "fa-github"
 
