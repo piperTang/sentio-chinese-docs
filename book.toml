@@ -1,6 +1,6 @@
 [book]
 authors = ["piper"]
-language = "zh"
+language = "em"
 multilingual = false
 src = "src"
 title = "sentio-chinese-docs"
